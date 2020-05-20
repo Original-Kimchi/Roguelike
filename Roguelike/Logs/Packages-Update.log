@@ -16,3 +16,14 @@ The following packages were updated:
   com.unity.collab-proxy from version 1.2.9 to 1.2.16
   com.unity.textmeshpro from version 2.0.0 to 2.0.1
   com.unity.timeline from version 0.0.0-builtin to 1.1.0
+
+=== Wed May 20 17:14:16 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.3.2
+  com.unity.ide.visualstudio@1.0.11
+  com.unity.purchasing@2.0.6
